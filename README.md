@@ -22,7 +22,7 @@ build and run the `KKTableEmptyViewExample` project in Xcode to see `KKTableEmpt
 
 ## Installation
 
-The recommended approach for installing SocialAccounts is via the [CocoaPods](http://cocoapods.org/) package manager, as it provides flexible dependency management and dead simple installation.
+The recommended approach for installing KKTableEmptyView is via the [CocoaPods](http://cocoapods.org/) package manager, as it provides flexible dependency management and dead simple installation.
 
 Install CocoaPods if not already available:
 
